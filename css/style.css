@@ -11,3 +11,11 @@ html, body {
 body{
     background-color: darkblue;
 }
+
+
+.container {
+    max-width: 1140px;
+    margin:  0 auto;
+    background: darkgoldenrod;
+
+}
